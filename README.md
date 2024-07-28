@@ -14,5 +14,23 @@
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
-#### Engenheiro de Software estudando para codar o mundo um lugar melhor.
+#### Olá! Sou estudante de Engenharia de Software e apaixonado por tecnologia e inovação. Atualmente, estou explorando o mundo do desenvolvimento de software com um foco especial em projetos utilizando Spring Boot e Java.
+
+🔭 Projetos em destaque:
+
+- HBO MAX: O projeto é um clone do site HBO Max , com o objetivo de reproduzir a interface, com algumas modificações, aplicando os temas envolvidos ao longo das aulas de CSS da plataforma da Digital Innovation One.
+
+
+🌱 No momento, estou me aprofundando em:
+
+- Java
+- PHP
+- SQL
+
+📫 Como me encontrar:
+
+- Email: [biel190410@gmail.com]
+
+
+💬 Vamos colaborar e construir algo incrível juntos!
 
