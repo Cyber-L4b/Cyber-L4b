@@ -1,5 +1,4 @@
-
-### ✨ Olá, me chamo Robson Gabriel ✨
+### 👋 Olá! Eu sou o Robson Gabriel, desenvolvedor em formação apaixonado por tecnologia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robson-gabriel-b8a200226)
 
