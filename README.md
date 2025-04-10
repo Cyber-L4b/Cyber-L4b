@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Robson Gabriel, desenvolvedor em formação apaixonado por tecnologia
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robson-gabriel)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel/)
 
 ![Robson GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-L4b&show_icons=true&theme=dracula)
 
